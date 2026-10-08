@@ -15,7 +15,7 @@ void Box::Update(float deltaTime) {
 
     if (y + height >= 900.0f) {
         y = 900.0f - height;
-        speedY = -speedY*gravity; // Visszapattan
+        speedY = -speedY*0.8f; // Visszapattan
     }
 }
 
