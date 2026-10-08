@@ -1,0 +1,15 @@
+C:/Users/Barni/Desktop/physs/build/CMakeFiles/PhysicsSandbox.dir
+C:/Users/Barni/Desktop/physs/build/CMakeFiles/INSTALL.dir
+C:/Users/Barni/Desktop/physs/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Barni/Desktop/physs/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Barni/Desktop/physs/build/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir
+C:/Users/Barni/Desktop/physs/build/_deps/sdl3-build/CMakeFiles/SDL3_test.dir
+C:/Users/Barni/Desktop/physs/build/_deps/sdl3-build/CMakeFiles/SDL_uclibc.dir
+C:/Users/Barni/Desktop/physs/build/_deps/sdl3-build/CMakeFiles/INSTALL.dir
+C:/Users/Barni/Desktop/physs/build/_deps/sdl3-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-build/CMakeFiles/INSTALL.dir
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-build/src/CMakeFiles/box2d.dir
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-build/src/CMakeFiles/INSTALL.dir
+C:/Users/Barni/Desktop/physs/build/_deps/entt-build/CMakeFiles/INSTALL.dir
+C:/Users/Barni/Desktop/physs/build/_deps/entt-build/CMakeFiles/ALL_BUILD.dir

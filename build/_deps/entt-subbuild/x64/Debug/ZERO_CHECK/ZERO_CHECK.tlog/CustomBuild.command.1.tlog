@@ -1,0 +1,10 @@
+^C:\USERS\BARNI\DESKTOP\PHYSS\BUILD\_DEPS\ENTT-SUBBUILD\CMAKEFILES\71DF8E24009191C5192D4BAB141DA394\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Barni/Desktop/physs/build/_deps/entt-subbuild -BC:/Users/Barni/Desktop/physs/build/_deps/entt-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Barni/Desktop/physs/build/_deps/entt-subbuild/entt-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

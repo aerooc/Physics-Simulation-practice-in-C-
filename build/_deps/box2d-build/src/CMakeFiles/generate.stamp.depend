@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.4/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-4.4/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-4.4/Modules/ExternalProject/shared_internal_commands.cmake
+C:/Program Files/CMake/share/cmake-4.4/Modules/FetchContent.cmake
+C:/Program Files/CMake/share/cmake-4.4/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-4.4/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Barni/Desktop/physs/build/CMakeFiles/cmake.verify_globs
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-build/src/box2d.pc.gen
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-src/src/CMakeLists.txt
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-src/src/box2d.pc.in

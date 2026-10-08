@@ -1,0 +1,14 @@
+# Target labels
+ box2d-populate
+# Source files and their labels
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/box2d-populate
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/d81492d3984b4e0e89fcedd613f885cf/box2d-populate.rule
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/14b3014cc24df6456b141c9e54ce31c1/box2d-populate-complete.rule
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/ac37eb9b491596eb27ef511add25fe6f/box2d-populate-build.rule
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/ac37eb9b491596eb27ef511add25fe6f/box2d-populate-configure.rule
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/ac37eb9b491596eb27ef511add25fe6f/box2d-populate-download.rule
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/ac37eb9b491596eb27ef511add25fe6f/box2d-populate-install.rule
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/ac37eb9b491596eb27ef511add25fe6f/box2d-populate-mkdir.rule
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/ac37eb9b491596eb27ef511add25fe6f/box2d-populate-patch.rule
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/ac37eb9b491596eb27ef511add25fe6f/box2d-populate-test.rule
+C:/Users/Barni/Desktop/physs/build/_deps/box2d-subbuild/CMakeFiles/ac37eb9b491596eb27ef511add25fe6f/box2d-populate-update.rule

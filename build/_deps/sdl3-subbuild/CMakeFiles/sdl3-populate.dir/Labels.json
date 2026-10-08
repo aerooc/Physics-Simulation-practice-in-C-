@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/f0c935a2ddca212994d8542c3f72f48d/sdl3-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/8794ca9510e86097b20f7042d876caf9/sdl3-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/292da998114cbcdc3f9a2243588b6cf2/sdl3-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/292da998114cbcdc3f9a2243588b6cf2/sdl3-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/292da998114cbcdc3f9a2243588b6cf2/sdl3-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/292da998114cbcdc3f9a2243588b6cf2/sdl3-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/292da998114cbcdc3f9a2243588b6cf2/sdl3-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/292da998114cbcdc3f9a2243588b6cf2/sdl3-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/292da998114cbcdc3f9a2243588b6cf2/sdl3-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/292da998114cbcdc3f9a2243588b6cf2/sdl3-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sdl3-populate"
+		],
+		"name" : "sdl3-populate"
+	}
+}

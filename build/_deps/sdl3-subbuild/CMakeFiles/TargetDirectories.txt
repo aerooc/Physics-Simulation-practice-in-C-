@@ -1,0 +1,3 @@
+C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate.dir
+C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Barni/Desktop/physs/build/_deps/sdl3-subbuild/CMakeFiles/ZERO_CHECK.dir

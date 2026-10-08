@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/919d230bfd30fc61dbe0fed70053f203/imgui-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/38aff4e9ea963631f7cedc1e04f22c15/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/56152c6f46d13613885b3c7b87aad928/imgui-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/56152c6f46d13613885b3c7b87aad928/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/56152c6f46d13613885b3c7b87aad928/imgui-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/56152c6f46d13613885b3c7b87aad928/imgui-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/56152c6f46d13613885b3c7b87aad928/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/56152c6f46d13613885b3c7b87aad928/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/56152c6f46d13613885b3c7b87aad928/imgui-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Barni/Desktop/physs/build/_deps/imgui-subbuild/CMakeFiles/56152c6f46d13613885b3c7b87aad928/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}

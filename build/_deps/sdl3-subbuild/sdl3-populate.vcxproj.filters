@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\292da998114cbcdc3f9a2243588b6cf2\sdl3-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\292da998114cbcdc3f9a2243588b6cf2\sdl3-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\292da998114cbcdc3f9a2243588b6cf2\sdl3-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\292da998114cbcdc3f9a2243588b6cf2\sdl3-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\292da998114cbcdc3f9a2243588b6cf2\sdl3-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\292da998114cbcdc3f9a2243588b6cf2\sdl3-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\292da998114cbcdc3f9a2243588b6cf2\sdl3-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\292da998114cbcdc3f9a2243588b6cf2\sdl3-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\8794ca9510e86097b20f7042d876caf9\sdl3-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\f0c935a2ddca212994d8542c3f72f48d\sdl3-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Barni\Desktop\physs\build\_deps\sdl3-subbuild\CMakeFiles\sdl3-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DE30F6BF-7533-3A2E-84AA-49440E719180}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
